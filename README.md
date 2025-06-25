@@ -1,6 +1,6 @@
 # Oskar Podrucki
 
-**Frontend Developer** · *React | Next.js | Expo | Tailwind | UI/UX Design*
+**Frontend Developer** · *React | Next | Expo | Tailwind | UI/UX Design*
 
 ---
 
@@ -15,7 +15,7 @@ Eager to learn, improve, and take on real-world projects to become the best deve
 ### ⚙️ Tech Stack
 
 ```ts
-const oskarpodrucki = {
+const techstack = {
   code: ["JavaScript", "TypeScript"],
   frontend: ["React", "Next", "Expo", "TailwindCSS"],
   backend: ["Node.js", "Express", "REST API", "SQL", "NoSQL"],
